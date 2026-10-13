@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">¿Quién soy?</string>
+    <string name="instruccion_inicial">¡Genera un personaje para empezar!</string>
+    <string name="bt_generar_personaje">Generar personaje</string>
+    <string name="bt_generar_otro_personaje">Generar otro personaje</string>
+</resources>
